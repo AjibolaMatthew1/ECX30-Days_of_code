@@ -13,4 +13,6 @@ Challenge Prompt
 
 
 E.G:
-'f(["a", "b", "a", "a", 3, 3, 2, "hello", "b"] ) => ["a", "b", 3, 2, "hello"]. #output'
+'''
+f(["a", "b", "a", "a", 3, 3, 2, "hello", "b"] ) => ["a", "b", 3, 2, "hello"]. #output
+'''
