@@ -9,9 +9,8 @@ find something useful in it.
 
 [Day 1 Solution](./day1.py)
 Challenge Prompt
-> List to Set
-
-Create a function that takes in a list as input, and returns(and prints) a new list with all repetitions reduced to one appearance alone, as output.
+> List to Set - Create a function that takes in a list as input, and returns(and prints) a new list with all repetitions reduced to one appearance alone, as output.
 
 
-E.G: f(["a", "b", "a", "a", 3, 3, 2, "hello", "b"] ) => ["a", "b", 3, 2, "hello"]. #output
+E.G:
+'f(["a", "b", "a", "a", 3, 3, 2, "hello", "b"] ) => ["a", "b", 3, 2, "hello"]. #output'
