@@ -92,4 +92,12 @@ Day 7 was DEFINITELY very fun! Thinking through the logic to make the game was n
 
 [Day 8 Solution](./day8.py)
 Challenge Prompt 
->
+> Write a function that takes in as parameters, a plaintext( string)to encode, and a _shift value _, and outputs the encoded value of the string.
+
+*Write another similar function that takes in the encoded string, with a shift_value, and decodes it.
+
+
+*Finally, write a third function that takes in a text, a shift value, and a third parameter to indicate whether to encode or decode the given text.(I.e f("string", 5, True/false) ) , And print out the encoded(or decoded) text accordingly.
+
+I solved them using ascii characters.
+
