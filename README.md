@@ -88,6 +88,8 @@ Description: Wordle is a single player game, in which a user is required to gues
 *The "hidden word" is generated randomly from a list of 5-letter words hard-coded by you.
 
 
+Day 7 was DEFINITELY very fun! Thinking through the logic to make the game was nice. I had few bugs, which kept popping but it finally worked. I created different functions for each of the specifics i wanted to do. I wanted to follow the **FUNCTIONAL PROGRAMMING** path. I created also my main function that contained the most important logic.  I also utilised a text files containing lots of words so I would be able to get valid words. It wouldn't have been a fun game if *ghrt counted as a word, init? 
+
 [Day 8 Solution](./day8.py)
 Challenge Prompt 
 >
