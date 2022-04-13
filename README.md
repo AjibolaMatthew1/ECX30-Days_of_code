@@ -101,3 +101,8 @@ Challenge Prompt
 
 I solved them using ascii characters.
 
+[Day 9 Solution](./day9.py)
+Challenge Prompt 
+> Write a function to check if an input integer is a prime numnber or not.
+
+So, I looped through the range of the number and then did the modulo division with the input number to find the one that would give a remainder of zero. If any such exist, then the number is not prime. This is due to the fact that a prime number is divisible only by one and itself.
