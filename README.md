@@ -90,6 +90,8 @@ Description: Wordle is a single player game, in which a user is required to gues
 
 Day 7 was DEFINITELY very fun! Thinking through the logic to make the game was nice. I had few bugs, which kept popping but it finally worked. I created different functions for each of the specifics i wanted to do. I wanted to follow the **FUNCTIONAL PROGRAMMING** path. I created also my main function that contained the most important logic.  I also utilised a text files containing lots of words so I would be able to get valid words. It wouldn't have been a fun game if *ghrt counted as a word, init? 
 
+-----
+
 [Day 8 Solution](./day8.py)
 Challenge Prompt 
 > Write a function that takes in as parameters, a plaintext( string)to encode, and a _shift value _, and outputs the encoded value of the string.
@@ -101,8 +103,12 @@ Challenge Prompt
 
 I solved them using ascii characters.
 
+-----
+
 [Day 9 Solution](./day9.py)
 Challenge Prompt 
 > Write a function to check if an input integer is a prime numnber or not.
 
 So, I looped through the range of the number and then did the modulo division with the input number to find the one that would give a remainder of zero. If any such exist, then the number is not prime. This is due to the fact that a prime number is divisible only by one and itself.
+
+-----
